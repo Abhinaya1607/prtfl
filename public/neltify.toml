@@ -1,0 +1,4 @@
+[[redirects]]
+from='/*'
+too='/index.html'
+status=200
