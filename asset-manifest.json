@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prtfl/static/css/main.e455e5a2.css",
+    "main.js": "/prtfl/static/js/main.9be11635.js",
+    "static/js/453.408b151d.chunk.js": "/prtfl/static/js/453.408b151d.chunk.js",
+    "index.html": "/prtfl/index.html",
+    "main.e455e5a2.css.map": "/prtfl/static/css/main.e455e5a2.css.map",
+    "main.9be11635.js.map": "/prtfl/static/js/main.9be11635.js.map",
+    "453.408b151d.chunk.js.map": "/prtfl/static/js/453.408b151d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e455e5a2.css",
+    "static/js/main.9be11635.js"
+  ]
+}
